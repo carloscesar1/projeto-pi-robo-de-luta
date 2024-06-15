@@ -32,7 +32,7 @@ de seu modo atual.
 
 </p>
 
-<h2>LIGAÇÕES</h2>
+<h2>Ligações</h2>
 
 <div align="center">
 
